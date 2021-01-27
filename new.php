@@ -16,3 +16,4 @@ curl_setopt($ch,CURLOPT_URL,$URL);
 curl_close($ch);
 echo '</div>'
 ?>
+<script src="main.js"> </script>
